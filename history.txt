@@ -1,3 +1,4 @@
+* be23b96 Add Git history
 * f078a8b Add footer
 * e4cd935 Add README
 *   10b1988 Resolve merge conflict
