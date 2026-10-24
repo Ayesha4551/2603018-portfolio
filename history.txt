@@ -1,0 +1,14 @@
+* f078a8b Add footer
+* e4cd935 Add README
+*   10b1988 Resolve merge conflict
+|\  
+| * fd7280d Update about on develop
+* | ee74ce4 Update about on master
+* | 20e75fb Merge develop into master
+|\| 
+| * 25605ee Update about page
+| * 6a0abb6 Add about page
+* | 2067641 Update portfolio styling
+|/  
+* 6897d65 Update portfolio homepage
+* 61a1856 Add portfolio homepage
