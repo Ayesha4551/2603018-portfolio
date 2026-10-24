@@ -1,1 +1,2 @@
 My skills and projects
+Learning Git and GitHub
